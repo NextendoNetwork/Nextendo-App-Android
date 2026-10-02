@@ -70,3 +70,8 @@ computer. The phone is there to find them and set them aside; installing happens
 
 Through this repository's [issues](../../issues), or on the Nextendo Network Discord. Say which
 version you are running: it's at the bottom of the **Account** tab.
+
+## License
+
+Released under the **[PolyForm Shield License 1.0.0](LICENSE.md)**, source-available: read, use,
+modify, and self-host, but do not use it to provide a product that competes with Nextendo Network.
